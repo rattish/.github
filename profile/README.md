@@ -3,6 +3,9 @@ small as code, easy to use, fast in understanding
 
 https://rattish.github.io/
 
+#### Rattish wiki
+http://rattopedia.sarverott.com/
+
 <!--
 
 **Here are some ideas to get you started:**
